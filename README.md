@@ -1,5 +1,4 @@
-# SoulBot
-It is a discord bot developed in JavaScript with a control panel designed on the web and many functions!
+# pixelBot
 
 ----------------
 ### Commands
@@ -79,7 +78,5 @@ You can configure the bot with commands and from the dashboard
 ----------------
 ### Contact me at discord
 ```
- Username: Atog.
- Discriminator: 0001
- Tag: Atog.#0001
+ Tag: **a**#0001
 ```
